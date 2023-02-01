@@ -1,1 +1,2 @@
-my second read me
+my first readme
+my instructor is cool
